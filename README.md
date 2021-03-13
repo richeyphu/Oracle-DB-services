@@ -8,4 +8,4 @@ Two simple batch scripts file that will turn on/off the Oracle Database services
 - Run `oracle-start.bat` to start the Oracle Database services.
 - Run `oracle-stop.bat` to stop the Oracle Database services.
 
->***Note*** I'm currently using `Oracle Database 18c Express Edition`
+>***Note*** This was tested in `Oracle Database 18c Express Edition`.
