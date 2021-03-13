@@ -1,5 +1,5 @@
 # Oracle-DB-switch
-Two simple batch scripts file that will turn on/off the Oracle Database services.
+Two simple batch scripts that will turn on/off the Oracle Database services.
 
 ## Usage
 - Go to `services.msc`
